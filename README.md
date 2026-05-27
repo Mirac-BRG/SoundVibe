@@ -21,7 +21,7 @@ Modern glassmorphism-inspired UI with dynamic visualizers and smooth animations.
 
 
 [Notifications]
-**Seamless music control with native OSD notifications.*
+*Seamless music control with native OSD notifications.*
 <img width="400" height="97" alt="image" src="https://github.com/user-attachments/assets/5739ea4f-371b-4c22-b6eb-e615ebc71747" />
 
 ---
