@@ -6,7 +6,8 @@ Designed with modern technologies, it delivers a sleek, minimalist, and high-per
 ---
 
 ## 🚀 Showcase
-![Interface]
+[Interface]
+Modern glassmorphism-inspired UI with dynamic visualizers and smooth animations.
 <img width="1431" height="963" alt="image" src="https://github.com/user-attachments/assets/7b3297f7-07b8-4173-95e7-d9bed6fdceca" />
 <img width="1398" height="953" alt="image" src="https://github.com/user-attachments/assets/525b036d-47bf-4831-a154-f79032e6f410" />
 <img width="1377" height="932" alt="image" src="https://github.com/user-attachments/assets/bb3f3bfe-cd59-4ad2-b4e1-1619c11323ce" />
@@ -14,13 +15,13 @@ Designed with modern technologies, it delivers a sleek, minimalist, and high-per
 
 
 
-![Mini Player]
-*Kompakt, işlevsel ve her zaman üstte.*
+[Mini Player]
+*Compact, functional, and always on top of the curve.*
 <img width="595" height="148" alt="image" src="https://github.com/user-attachments/assets/dc70f41f-941a-486a-a5c4-ddd5c5d77305" />
 
 
-![Notifications]
-*Native OSD bildirimleri ile kesintisiz müzik kontrolü.*
+[Notifications]
+**Seamless music control with native OSD notifications.*
 <img width="400" height="97" alt="image" src="https://github.com/user-attachments/assets/5739ea4f-371b-4c22-b6eb-e615ebc71747" />
 
 ---
