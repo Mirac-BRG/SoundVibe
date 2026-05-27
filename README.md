@@ -1,10 +1,11 @@
 # SoundVibe 🎵
 
-**SoundVibe**, Frutiger Aero estetiği ile modern ses mühendisliğini birleştiren, donanım dostu bir Windows müzik oynatıcısıdır. Modern teknolojilerle tasarlanmış, şık ve minimalist bir arayüze sahip yüksek performanslı bir müzik deneyimi sunar.
+**SoundVibe**, SoundVibe is a modern Windows music player that blends the Frutiger Aero aesthetic with modern audio engineering.
+Designed with modern technologies, it delivers a sleek, minimalist, and high-performance music experience while remaining lightweight on system resources.
 
 ---
 
-## 🚀 Vitrin
+## 🚀 Showcase
 ![Arayüz Genel Görünüm](assets/main_ui.png)
 <img width="1431" height="963" alt="image" src="https://github.com/user-attachments/assets/7b3297f7-07b8-4173-95e7-d9bed6fdceca" />
 <img width="1398" height="953" alt="image" src="https://github.com/user-attachments/assets/525b036d-47bf-4831-a154-f79032e6f410" />
@@ -18,47 +19,74 @@
 <img width="595" height="148" alt="image" src="https://github.com/user-attachments/assets/dc70f41f-941a-486a-a5c4-ddd5c5d77305" />
 
 
-![Bildirimler](assets/osd.png)
+![Notifications](assets/osd.png)
 *Native OSD bildirimleri ile kesintisiz müzik kontrolü.*
 <img width="400" height="97" alt="image" src="https://github.com/user-attachments/assets/5739ea4f-371b-4c22-b6eb-e615ebc71747" />
 
 ---
 
-## ✨ Özellikler
+## ✨ Features
 
-- **Aero Glass Aesthetic:** Cam ve akrilik tasarım dilinin modern, şeffaf yorumu.
-- **Yüksek Performans:** İşlemci dostu, asenkron C# mimarisi; sistem kaynaklarını minimumda kullanır.
-- **NAudio Engine:** Gecikmesiz, yüksek kaliteli ses işleme.
-- **Esnek Tema:** Neon detaylardan şeffaf cam efektlerine kadar kullanıcı odaklı özelleştirme.
-- **Native OSD:** Şarkı değiştiğinde Windows bildirim alanında beliren zarif kontrol paneli.
+- **Aero Glass Aesthetic**  
+  A modern interpretation of transparent glass and acrylic design language.
 
----
-## 🎧 Neden SoundVibe?
+- **High Performance**  
+  Asynchronous C# architecture optimized for low CPU and memory usage.
 
-SoundVibe, klasik Windows medya oynatıcılarının hantallığını modern
-GPU hızlandırmalı bir arayüz ve düşük gecikmeli ses motoruyla yeniden tasarlar.
+- **NAudio Engine**  
+  Low-latency, high-quality audio processing powered by NAudio.
 
-Frutiger Aero estetiğini modern Windows deneyimiyle birleştirir.
+- **Flexible Themes**  
+  Customize the experience from neon accents to transparent glass effects.
 
-## 🛠️ Teknik Altyapı
-
-SoundVibe, tamamen güncel **.NET 8 (WPF)** kütüphaneleriyle optimize edilmiştir:
-* **Dili:** C#
-* **Ses Motoru:** NAudio
-* **Arayüz:** GPU Hızlandırmalı XAML
+- **Native OSD Support**  
+  Elegant Windows media notifications and playback controls.
 
 ---
 
-## 📦 Kurulum
+## 🎧 Why SoundVibe?
 
-1. [Releases](https://github.com/Mirac-BRG/SoundVibe/releases) kısmından en son kurulum dosyasını indirin.
-2. Sihirbazı takip ederek kurulumu tamamlayın.
-3. Müziğin keyfini çıkarın!
+SoundVibe reimagines traditional Windows music players with a modern GPU-accelerated interface and a low-latency audio engine.
+
+It combines the nostalgic Frutiger Aero aesthetic with a contemporary Windows desktop experience.
+
+---
+
+## 🛠️ Technical Stack
+
+SoundVibe is optimized using modern .NET 8 (WPF) technologies.
+
+- **Language:** C#
+- **Audio Engine:** NAudio
+- **UI Framework:** WPF (.NET 8)
+- **Rendering:** Hardware Accelerated XAML
 
 ---
 
-## 🤝 Katkıda Bulunma
-Bu bir açık kaynak projesidir. Geliştirmeler, hata bildirimleri veya yeni tema önerileri için bir *Pull Request* açmaktan çekinmeyin!
+## 📦 Installation
+
+1. Download the latest installer from the Releases section.
+2. Run the setup wizard.
+3. Enjoy the vibe. 🎵
 
 ---
-*SoundVibe ile müziği hissedin.* 🎹
+
+## 🤝 Contributing
+
+SoundVibe is an open-source project.
+
+Contributions, bug reports, feature ideas, and new theme concepts are always welcome.
+
+Feel free to open an issue or submit a pull request.
+
+---
+
+## ⭐ Support
+
+If you like the project, consider giving it a star on GitHub — it really helps!
+
+---
+
+<p align="center">
+  <b>Feel the music with SoundVibe. 🎹</b>
+</p>
