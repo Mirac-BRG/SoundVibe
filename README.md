@@ -33,6 +33,12 @@
 - **Native OSD:** Şarkı değiştiğinde Windows bildirim alanında beliren zarif kontrol paneli.
 
 ---
+## 🎧 Neden SoundVibe?
+
+SoundVibe, klasik Windows medya oynatıcılarının hantallığını modern
+GPU hızlandırmalı bir arayüz ve düşük gecikmeli ses motoruyla yeniden tasarlar.
+
+Frutiger Aero estetiğini modern Windows deneyimiyle birleştirir.
 
 ## 🛠️ Teknik Altyapı
 
