@@ -1,7 +1,7 @@
 # SoundVibe 🎵
 
-**SoundVibe** is a modern Windows music player that blends the Frutiger Aero aesthetic with modern audio engineering.
-Designed with modern technologies, it delivers a sleek, minimalist, and high-performance music experience while remaining lightweight on system resources.
+**SoundVibe** is a modern Windows music player inspired by the nostalgic Frutiger Aero era, classic desktop personalization, and modern glassmorphism aesthetics.
+Built with C# and WPF, it combines smooth animations, dynamic visualizers, acrylic effects, and a lightweight audio engine into a stylish desktop music experience.
 
 ---
 
